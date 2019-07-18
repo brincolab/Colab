@@ -1,0 +1,27 @@
+La idea es que aquí se delinien los pasos a seguir como subir distintos scripts, funciones, bases de datos, desde ambos nodos (SCL y VAL).
+
+
+Desde SCL:
+
+1) Subir funciones ya programadas que:
+    - Ventanean la señal de EEG
+    - Binarizan 
+    > Calculan LZc (LZ76, LZW, AbsH)
+    - Normalizan LZc
+    - Entregan el vocabulario de una señal {pesado}
+
+2) Subir la base de datos de Bekinstein con los LZc ya calculados por sujeto, condicion, trial
+
+3) Subir otras bases de datos abiertas de EEG en anestesia (o sueño) para procesar
+
+
+#### Mensaje Transitorio ####
+Desde acá nos gustaría que subieran los scripts de las medidas inter-electrodos de sinergia y redundancia para ir echandoles un ojo
+
+Saludos
+Gonzalo y Vicente
+#### fin mensaje transitorio ####
+    
+
+    
+    
